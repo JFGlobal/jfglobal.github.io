@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jordacity on Jekyll!"
 date:   2015-02-17 14:27:56
 categories: jekyll update
 ---
