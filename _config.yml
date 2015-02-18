@@ -2,9 +2,10 @@
 title: Jordacity Underground
 email: jordacity@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  You should not be reading this. If you are, congratulations, there are no real secrets here. 
+  This is merely a backdoor into my mind and my current projects. It's like the camera facing the canvas that contains all my 
+  works in progress, before they get wheeled to my front door for public presentation. Is it a privilege to be here? 
+  Or just a waste of time? That's for you to decide. For now, enjoy the ride. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.jorda.city" # the base hostname & protocol for your site
 twitter_username: splenda_daddy
